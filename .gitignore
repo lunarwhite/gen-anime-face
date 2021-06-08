@@ -130,3 +130,6 @@ dmypy.json
 
 # Res
 res/image/*
+
+# config
+.vscode/
