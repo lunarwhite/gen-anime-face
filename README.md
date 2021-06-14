@@ -1,5 +1,4 @@
 # anime-face-generation
-<<<<<<< HEAD
 
 GAN-based generation of animated/ACGN faces. || 基于李宏毅老师的二次元人脸/头像数据集，应用训练GAN
 
@@ -93,6 +92,3 @@ GAN-based generation of animated/ACGN faces. || 基于李宏毅老师的二次�
 ## 5 参考
 
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
-=======
-GAN-based generation of animated/ACGN faces. || 基于李宏毅老师的二次元人脸/头像数据集，应用训练GAN
->>>>>>> 368109cead1550eb3a710255f23f656d7a2d9655
