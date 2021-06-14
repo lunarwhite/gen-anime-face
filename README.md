@@ -20,7 +20,7 @@ GAN-based generation of animated/ACGN faces. || 基于李宏毅老师的二次�
 - Image Generation
 - 基于李宏毅老师的二次元人脸/头像数据集，实现二次元人脸生成
 - 数据集来源：[moe](https://make.girls.moe/#/)
-- 数据集下载：[google-drive](https://drive.google.com/file/d/1tpW7ZVNosXsIAWu8-f5EpwtF3ls3pb79/view)
+- 数据集下载：[kaggle](https://www.kaggle.com/lunarwhite/anime-face-dataset-ntumlds) || [google-drive](https://drive.google.com/file/d/1tpW7ZVNosXsIAWu8-f5EpwtF3ls3pb79/view)
 - 选择GAN作为模型，借助Keras搭建训练
 - 主要工具包版本为TensorFlow 2.2.0、和Python 3.7.10
 
