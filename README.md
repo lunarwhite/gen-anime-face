@@ -9,7 +9,7 @@ GAN-based generation of animated/ACGN faces. || 基于李宏毅老师的二次�
 ├── README.md
 ├── requirements.txt
 ├── res
-│   └── image #数据集
+│   └── image # 数据集
 └── tmp # 保存model图片
 
 3 directories, 3 files
