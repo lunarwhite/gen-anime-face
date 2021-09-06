@@ -1,5 +1,7 @@
 # anime-face-generation
 
+![anime-face-generation](https://socialify.git.ci/lunarwhite/anime-face-generation/image?description=1&descriptionEditable=GAN-based%20generation%20of%20animated%2FACGN%20faces.&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fae%2FKeras_logo.svg%2F180px-Keras_logo.svg.png&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Light)
+
 GAN-based generation of animated/ACGN faces. || 基于李宏毅老师的二次元人脸/头像数据集，应用训练GAN
 
 ```
