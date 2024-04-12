@@ -10,7 +10,7 @@ google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
 grpcio==1.53.2
 h5py==2.10.0
-idna==2.10
+idna==3.7
 importlib-metadata==4.5.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
