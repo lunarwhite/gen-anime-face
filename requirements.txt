@@ -40,7 +40,7 @@ tensorflow-estimator==2.2.0
 termcolor==1.1.0
 typing-extensions==3.10.0.0
 urllib3==1.26.18
-Werkzeug==3.0.1
+Werkzeug==3.0.3
 wincertstore==0.2
 wrapt==1.12.1
 zipp==3.4.1
